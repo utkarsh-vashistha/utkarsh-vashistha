@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkarsh-vashistha
-- 👀 I’m interested in ML/AI AND devlopment
+- 👀 I’m interested in ML/AI AND development
 - 🌱 I’m currently learning Python and JAVA
 - 📫 How to reach me - utkarshvashistha2202@gmail.com
 
